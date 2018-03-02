@@ -1,0 +1,7 @@
+The simulation is run using the main_rocket.m script.
+
+To set the inputs, modify the setinputs_rocket.m script.
+
+You should not in general need to modify the calcf_rocket.m or the FE_rocket.m script.
+
+Note: all of the scripts need to be in the same directory, or in the path where your Matlab looks for scripts.
